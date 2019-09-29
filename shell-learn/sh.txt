@@ -3,3 +3,11 @@
 >:rederect output.
 >>:rederect output but append.
 /dev/null:a file that all the things written to here will lost.
+useradd:
+	-p:followed by password.
+	-g:followed by group.
+	-m:auto create user directory.
+egrep "^$user"
+	^:at the head of the line.
+perl:is a programming language.
+$?:if the latest command executed successfully $? equals to 0.
