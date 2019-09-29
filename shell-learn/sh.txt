@@ -1,0 +1,5 @@
+&:to execute at the background.
+>&:to bind one output to another output.
+>:rederect output.
+>>:rederect output but append.
+/dev/null:a file that all the things written to here will lost.
